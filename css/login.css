@@ -23,6 +23,7 @@ body {
   -ms-border-radius: 20px;
   -o-border-radius: 20px;
   background-color: transparent;
+  border: 2px solid white;
 }
 
 .shadow-lg-custom {
