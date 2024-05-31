@@ -12,7 +12,7 @@ window.onload = function () {
 
   document.getElementById('logoutBtn').addEventListener('click', function () {
     localStorage.removeItem('loggedInUser');
-    window.location.href = 'login.html';
+    window.location.href = 'index.html';
   });
 };
 
